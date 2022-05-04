@@ -60,6 +60,7 @@ class App extends React.Component {
       );
     }*/
 
+<<<<<<< Updated upstream
     /* Change below to render students*/
 
     /*if (this.state.buttonClicked === "students") {
@@ -121,3 +122,6 @@ class App extends React.Component {
 }
 
 export default App;
+=======
+export default App;
+>>>>>>> Stashed changes
